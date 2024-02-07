@@ -51,7 +51,7 @@ public class Sample {
 		a1.add(20);
 		a1.add(2.3);
 		a1.add(2.3);
-		a1.add(null);
+		a1.add(null); // empty space.
 		a1.add('a');
 		a1.add("hello");
 		System.out.println(a1);
