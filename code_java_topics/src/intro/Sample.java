@@ -6,7 +6,5 @@ public class Sample {
 	{
 	System.out.println("Hello Indian");	
 	System.out.println("hello programmer");
-
 	}
-
 }
