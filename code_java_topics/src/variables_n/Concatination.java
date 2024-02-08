@@ -20,6 +20,7 @@ public class Concatination {
 	 
 	 System.out.println(a+b);  //9.0
 		
+	 
 		// concatination of string and number. 
 		
 		System.out.println("the sum of a and b is " + (a+b));
