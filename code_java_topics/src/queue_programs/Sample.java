@@ -17,14 +17,11 @@ public class Sample {
 //		a1.add(20);
 //		// a1.add(null); // empty space.
 		
-		
 //		PriorityQueue a1 = new PriorityQueue();
 //		a1.add("Vineeth");
 //		a1.add("Monesh");
 //		a1.add("Chetan");
-//
 //		System.out.println(a1);
-		
 		
 //		PriorityQueue<String> a1 = new PriorityQueue<String>();
 //		a1.add("Vineeth");
@@ -40,6 +37,17 @@ public class Sample {
 		a1.add(70);
 
 		System.out.println(a1);
+		System.out.println("Before peek");// extracts first value from the top , and no size change 
+		
+		int num = a1.peek();
+		System.out.println(num);
+		System.out.println("After peek");
+		System.out.println(a1);
+		
+		System.out.println("Before poll");  // extracts first value from the top , and reducese the size by 1
+		int num2 = a1.poll();
+		System.out.println(num2);
+		System.out.println("After poll");
+		System.out.println(a1);
 	}
-
 }
