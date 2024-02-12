@@ -1,7 +1,7 @@
 //find 
 
 
-a^ values
+//a^ values
 package variables_n;
 
 public class condition_1ex {
@@ -16,5 +16,5 @@ for (int a=1; a<=10; a++)
 
 
 	}
-
 }
+
