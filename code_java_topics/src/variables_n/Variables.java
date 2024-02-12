@@ -7,16 +7,18 @@ public static void main(String[] args)
 {
 	//data typesand variables
 	System.out.println(10);
+	
 	System.out.println(2.35);
 	
 	//charecter literals, single quotes.
 	System.out.println('a');
 	System.out.println('9');
 	
+	
 	//string literals
 	System.out.println("hello");
-	System.out.println("9036985520");
-	System.out.println("nutan7898");
+	System.out.println("8050485520");
+	System.out.println("nutan2002");
 	System.out.println("     ");
 	
 	//boolean

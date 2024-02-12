@@ -10,23 +10,19 @@ public class Sample {
 		// size is dynamic.
 		// any type of data can be stored. 
 		// canot store null key , null value can be stored. 
-		
 		// HashMap, LinkedHasMap, TreeMap  ( fullsorted )
 		
 		HashMap<String, Integer> hm = new HashMap<String, Integer>();
 		// put() , get()
-		
 		hm.put("Ram", 879874657);
 		hm.put("Raju", 54544657);
 		hm.put("Rajesh", 22124657);
 		hm.put("Ram - whatsapp", 879874657);
 		System.out.println(hm);
 		
-		
 		LinkedHashMap<String, Integer> hm1 = new LinkedHashMap<String, Integer>();
 		// put() , get()
-		
-		hm1.put("Ram", 879874657);
+		hm1.put("sham", 879874657);
 		hm1.put("Raju", 54544657);
 		hm1.put("Rajesh", 22124657);
 		hm1.put("Ram - whatsapp", 879874657);
