@@ -1,3 +1,7 @@
+//find 
+
+
+a^ values
 package variables_n;
 
 public class condition_1ex {
